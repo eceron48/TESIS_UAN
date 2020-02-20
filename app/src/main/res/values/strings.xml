@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MONITOR_UA</string>
+    <string name="txt_sensor">sensor </string>
+    <string name="txt_acelerometro">acelerometro</string>
+    <string name="txt_proximidad">proximidad</string>
+    <string name="txt_biometrico">biometrico</string>
+    <string name="txt_luminosidad">luminosidad</string>
+    <string name="txt_giroscopio">giroscopio</string>
+    <string name="txt_estado">subtotal consumo  </string>
+    <string name="txt_bateria">bateria</string>
+    <string name="btn_revisar">iniciar</string>
+    <string name="txt_wifi">GPS</string>
+    <string name="txt_consumo">consumo ml</string>
+    <string name="txt_verificar">sensores activos</string>
+</resources>
